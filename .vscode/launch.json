@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeApp",
+            "request": "launch",
+            "mainClass": "TreeApp",
+            "projectName": "OUTLAB2_AVL"
+        }
+    ]
+}
